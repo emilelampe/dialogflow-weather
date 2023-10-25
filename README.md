@@ -11,3 +11,5 @@ For the weather forecasting, it makes use of the Open-Meteo forecast API. This o
 The flow asks for the location and date for which the weather should be forecasted. If one of the two is not given, it will ask for that one again. Afterwards, the user has the option to ask for another weather forecast.
 
 ![The flow in Dialogflow](/img/flow.png "The flow in Dialogflow")
+
+![An example chat](/img/chat.png "An example chat")
